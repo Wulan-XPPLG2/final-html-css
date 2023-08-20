@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: darkgrey;
+}
+
+.namap{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nama{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tempat{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    text-align: center;
+}
+.tanggal{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.kelamin{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Jenis{
+    color: chocolate;
+}
+.Kelamin{
+    color: chocolate;
+}
+.agama{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sekolah{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ortu{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+.jalan{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.rt{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.kel{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.kec{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.kota{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
